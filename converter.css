@@ -38,7 +38,7 @@ body {
   width: 1140px;
   height: 640px;
   border: 1px solid black;
-  overflow: scroll;
+  overflow: auto;
 }
 
 input[type='textarea'] {
