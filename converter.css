@@ -1,0 +1,57 @@
+body {
+  background-color: #FFDE00;
+  text-align: center;
+}
+
+#main_container {
+  position: relative;
+  display: inline-block;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid gray;
+  text-align: center;
+}
+
+#div_in {
+  display: inline-block;
+  margin: 5px;
+  width: 580px;
+  height: 480px;
+}
+
+#div_out {
+  display: inline-block;
+  margin: 5px;
+  width: 580px;
+  height: 480px;
+}
+
+#div_preview {
+  display: inline-block;
+  text-align: left;
+  margin: 10px;
+  padding: 10px;
+  width: 1140px;
+  height: 640px;
+  border: 1px solid black;
+}
+
+input[type='textarea'] {
+  width: 560px;
+  height: 400px;
+  rows: 20;
+}
+
+textarea {
+  width: 560px;
+  height: 400px;
+}
+
+h3 {
+  margin: 0px
+  margin-bottom: 5px;
+}
