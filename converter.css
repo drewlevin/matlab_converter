@@ -49,6 +49,7 @@ input[type='textarea'] {
 textarea {
   width: 560px;
   height: 400px;
+  spellcheck: false;
 }
 
 h3 {
